@@ -19,6 +19,8 @@ I try to create and test everything that interests me and learn new ways of prog
 
 I like high and low level programming, doing interface design, 3D modeling, and animation. I use VScode, Geany, Figma, Procreate, DavinciResolve, Affinity, Blender, Fusion360 and UE5.
 
-![GitHub stats](https://github-stats-md.vercel.app/api?username=EMIX028&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-stats-md.vercel.app/api?username=EMIX028&show_icons=true&theme=dark) -->
 
-![Top Langs](https://github-stats-md.vercel.app/api/top-langs/?username=EMIX028&layout=compact)
+<p align="center">
+  <img src="https://github-stats-md.vercel.app/api/top-langs/?username=EMIX028&layout=compact&theme=tokyonight"/>
+</p>
