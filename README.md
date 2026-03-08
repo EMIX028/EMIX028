@@ -25,6 +25,7 @@ I like high and low level programming, doing interface design, 3D modeling, and 
   <img src="https://github-stats-md.vercel.app/api/top-langs/?username=EMIX028&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://ghchart.rshah.org/EMIX028"/>
 </p>
+-->
