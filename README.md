@@ -1,4 +1,4 @@
-## Hi !🦔
+## Hi !
 
 <!--
 **EMIX028/EMIX028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm **EMIX**, a first year computer science student from France.
 I try to create and test everything that interests me and learn new ways of programming and creating stuff.
 
-I like high and low level programming, doing interface design, 3D modeling, and animation. I use VScode, Geany, Figma, Procreate, DavinciResolve, Affinity, Blender, Fusion360 and UE5.
+I like high and low level programming, doing interface design, 3D modeling, animation and create some games. I use VScode, Geany, Figma, Procreate, DavinciResolve, Affinity, Blender, Fusion360 and UE5.
 
 <!-- ![GitHub stats](https://github-stats-md.vercel.app/api?username=EMIX028&show_icons=true&theme=dark) -->
 
